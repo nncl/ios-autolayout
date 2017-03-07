@@ -23,6 +23,11 @@ class MovieViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    
+    @IBAction func changeTitle(_ sender: UIButton) {
+        lbTitle.text = "Logan"
+    }
 
 }
 
