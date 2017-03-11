@@ -14,5 +14,5 @@ Clone from ericbrito.com/fiap/movieslib.zip - just initial commit.
 ## TO DO
 
 - [ ] Traine it again
-- [ ] Add label only to landscape compat iphone. Tip: vary traits :)
+- [x] Add label only to landscape compat iphone. Tip: vary traits :)
 
